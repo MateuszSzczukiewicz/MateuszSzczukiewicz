@@ -25,4 +25,4 @@ I also have a YouTube channel where I present various elegant technologies. Feel
 
 ## 📫 Contact Me
 
-- Email: [szczmat6277@gmail.com](mailto:szczmat6277@gmail.com)
+- Email: [szcmat6277@gmail.com](mailto:szcmat6277@gmail.com)
