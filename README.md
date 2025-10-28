@@ -25,7 +25,7 @@ I experiment with "radical simplicity" to challenge the overhead of conventional
 
 ### Engineering Practice & Study
 
-I maintain a disciplined approach to growth through daily problem-solving (Exercism, LeVsetcode) and continuous study of technical literature.
+I maintain a disciplined approach to growth through daily problem-solving (Exercism, LeetCode) and continuous study of technical literature.
 
 * **Actively Exploring:** **Rust**, **Zig** and **OCaml** for high-performance systems programming.
 * **Actively Studying:** Electronics and hardware design to deepen my understanding of fault-tolerant systems and the interface between software and bare metal.
