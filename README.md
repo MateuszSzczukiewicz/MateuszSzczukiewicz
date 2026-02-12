@@ -9,12 +9,6 @@ I build reliable, high-performance software, from embedded C++ for satellite sys
 
 * **Satellite Systems (PWSat-3):** Developing real-time, fault-tolerant C++ code (FreeRTOS) for the satellite's **On-Board Computer (OBC)**. My work focuses on command handling, data acquisition, and implementing communication protocols for the primary **UHF radio transceiver**.
 * **Full-Stack & Systems (Spinetime)**: As a core engineer, I build and maintain systems across the entire stack: frontend (**Nuxt**), backend (**Django, FastAPI**), DevOps, and medical algorithms.
-### Core Projects & Design Philosophy
-
-I experiment with "radical simplicity" to challenge the overhead of conventional frameworks. My goal is to build performant, zero-dependency tools that provide a developer-friendly API without sacrificing raw performance.
-
-* **[Nihil.js](https://github.com/MateuszSzczukiewicz/Nihil.js):** The "anti-framework." A minimal (< 1.5kb) client-side runtime that bridges server-side state (JSON diffs) directly to the DOM, bypassing VDOM overhead and complex hydration.
-* **[Omnia.js](https://github.com/MateuszSzczukiewicz/Nihil.js):** A zero-dependency, high-performance backend framework for Bun. The goal is to provide a clean, modern API while maximizing request throughput and minimizing latency.
 
 ### Technical Stack & Interests
 
