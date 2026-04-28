@@ -8,7 +8,6 @@ I build reliable, high-performance software, from embedded C++ for satellite sys
 ### Current Engineering Focus
 
 * **Satellite Systems (PWSat-3):** Developing real-time, fault-tolerant C++ code (FreeRTOS) for the satellite's **On-Board Computer (OBC)**. My work focuses on command handling, data acquisition, and implementing communication protocols for the primary **UHF radio transceiver**.
-* **Full-Stack & Systems (Spinetime)**: As a core engineer, I build and maintain systems across the entire stack: frontend (**Nuxt**), backend (**Django, FastAPI**), DevOps, and medical algorithms.
 
 ### Technical Stack & Interests
 
