@@ -20,7 +20,3 @@ Languages: C, C++, Python, Rust, OCaml, Go, TypeScript.
 Embedded: STM32, ARM Cortex-M, FreeRTOS, Low-Level Networking.
 
 Environment: Deep interest in the Linux ecosystem (NixOS, Arch), terminal-based tooling (Neovim, TMUX), and shell scripting.
-
-I maintain a disciplined approach to growth through electronics study and daily problem-solving. My goal is to understand the "full picture" — moving from cloud-based logic down to the bare metal.
-
-Per aspera ad astra
