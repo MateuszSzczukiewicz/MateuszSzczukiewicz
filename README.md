@@ -1,24 +1,26 @@
 # Mateusz Szczukiewicz
-Software Engineer – Systems, Performance, and Embedded
+Mission Control Software Engineer @ Creotech Instruments S.A. | Embedded Software Engineer @ PWSat-3
 
-I build reliable, high-performance software, from embedded C++ for satellite systems to efficient, minimal-overhead web runtimes. My work balances full-stack engineering at a high-growth startup with a deep focus on systems-level programming and architecture.
+I build software that operates where reliability and performance are non-negotiable. My work spans the full satellite stack—from high-level Mission Control Systems at Creotech Instruments S.A. to low-level C++ firmware on ARM Cortex for PW-Sat3.
 
----
+I’m currently a Mission Control Software Engineer, where I bridge the gap between complex mission logic and hardware. My transition from high-scale Full-stack development to SpaceTech allows me to bring modern software craftsmanship (CI/CD, clean code) to the rigorous world of satellite systems.
 
-### Current Engineering Focus
+Current Engineering Focus:
 
-* **Satellite Systems (PWSat-3):** Developing real-time, fault-tolerant C++ code (FreeRTOS) for the satellite's **On-Board Computer (OBC)**. My work focuses on command handling, data acquisition, and implementing communication protocols for the primary **UHF radio transceiver**.
+    Mission Control (Creotech): Developing Ground Segment infrastructure and mission logic using Python and C++.
 
-### Technical Stack & Interests
+    On-Board Computer (PW-Sat3): Writing fault-tolerant C++ (FreeRTOS) for command handling and UHF radio communication.
 
-* **Languages:** C, C++, Go, TypeScript, Python, OCaml
-* **Domains:** Embedded Systems (RTOS), Low-Level Networking (TCP/IP), Systems Architecture (IoT & Resource-Constrained Devices), API Design.
-* **Technologies:** Next.js, Nest, Vue.js, React.js, Django, FastAPI, Flask, Node.js, Bun, Docker.
-* **Environment & Tooling:** Deep interest in the Linux ecosystem (NixOS, Arch), tiling window managers(i3wm, hyprland), terminal-based tools (Neovim, TMUX), and shell scripting.
+    Systems Exploration: Actively integrating Rust and OCaml into my workflow for safer, high-performance systems programming.
 
-### Engineering Practice & Study
+Technical Stack:
 
-I maintain a disciplined approach to growth through daily problem-solving (Exercism, LeetCode) and continuous study of technical literature.
+    Languages: C, C++, Python, Rust, OCaml, Go, TypeScript.
 
-* **Actively Exploring:** **Rust**, **Zig** and **OCaml** for high-performance systems programming.
-* **Actively Studying:** Electronics and hardware design to deepen my understanding of fault-tolerant systems and the interface between software and bare metal.
+    Embedded: STM32, ARM Cortex-M, FreeRTOS, Low-Level Networking.
+
+    Environment: Deep interest in the Linux ecosystem (NixOS, Arch), terminal-based tooling (Neovim, TMUX), and shell scripting.
+
+I maintain a disciplined approach to growth through electronics study and daily problem-solving. My goal is to understand the "full picture" — moving from cloud-based logic down to the bare metal.
+
+Per aspera ad astra
