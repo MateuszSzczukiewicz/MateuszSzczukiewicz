@@ -5,22 +5,22 @@ I build software that operates where reliability and performance are non-negotia
 
 I’m currently a Mission Control Software Engineer, where I bridge the gap between complex mission logic and hardware. My transition from high-scale Full-stack development to SpaceTech allows me to bring modern software craftsmanship (CI/CD, clean code) to the rigorous world of satellite systems.
 
-Current Engineering Focus:
+## Current Engineering Focus:
 
-    Mission Control (Creotech): Developing Ground Segment infrastructure and mission logic using Python and C++.
+Mission Control (Creotech): Developing Ground Segment infrastructure and mission logic using Python and C++.
 
-    On-Board Computer (PW-Sat3): Writing fault-tolerant C++ (FreeRTOS) for command handling and UHF radio communication.
+On-Board Computer (PW-Sat3): Writing fault-tolerant C++ (FreeRTOS) for command handling and UHF radio communication.
 
-    Systems Exploration: Actively integrating Rust and OCaml into my workflow for safer, high-performance systems programming.
+Systems Exploration: Actively integrating Rust and OCaml into my workflow for safer, high-performance systems programming.
 
-Technical Stack:
+## Technical Stack:
 
-    Languages: C, C++, Python, Rust, OCaml, Go, TypeScript.
+Languages: C, C++, Python, Rust, OCaml, Go, TypeScript.
 
-    Embedded: STM32, ARM Cortex-M, FreeRTOS, Low-Level Networking.
+Embedded: STM32, ARM Cortex-M, FreeRTOS, Low-Level Networking.
 
-    Environment: Deep interest in the Linux ecosystem (NixOS, Arch), terminal-based tooling (Neovim, TMUX), and shell scripting.
+Environment: Deep interest in the Linux ecosystem (NixOS, Arch), terminal-based tooling (Neovim, TMUX), and shell scripting.
 
 I maintain a disciplined approach to growth through electronics study and daily problem-solving. My goal is to understand the "full picture" — moving from cloud-based logic down to the bare metal.
 
-Per aspera ad astra
+## Per aspera ad astra
