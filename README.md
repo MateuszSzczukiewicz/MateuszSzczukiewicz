@@ -23,4 +23,4 @@ Environment: Deep interest in the Linux ecosystem (NixOS, Arch), terminal-based 
 
 I maintain a disciplined approach to growth through electronics study and daily problem-solving. My goal is to understand the "full picture" — moving from cloud-based logic down to the bare metal.
 
-## Per aspera ad astra
+Per aspera ad astra
